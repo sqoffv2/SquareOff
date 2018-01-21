@@ -1,8 +1,9 @@
-# SquareOff
+# SquareOff V2
 
-A game we built for Ludum Dare 35!  Play now at [sqoff.com](http://sqoff.com).
+A game they built for Ludum Dare 35! Being modified to wager cryptocurrencies!
+Play soon at [sqoffv2.github.io](http://sqoffv2.github.io).
 
-Also see the [making of](http://scripta.co/articles/squareoff-ld35/) blog post.
+Also see the [making of](http://url) video coding session.
 
 ## Setup
 
